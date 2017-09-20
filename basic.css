@@ -102,9 +102,11 @@ ol {
 }
 li {
     display: inline;
+position:fixed;
 }
 li {
     float: left;
+position:fixed;
 }
 
 a {
@@ -127,6 +129,7 @@ ol {
 
 li {
     float: left;
+position:fixed;
 }
 
 li a {
@@ -135,6 +138,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+position:fixed;
 }
 
 /* Change the link color to #000000 (black) on hover */
